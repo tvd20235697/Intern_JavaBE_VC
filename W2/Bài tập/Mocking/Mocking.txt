@@ -1,0 +1,20 @@
+Các method Mockito 
+
+Method
+
+
+when().thenReturn()   Cấu hình giá trị trả về
+when(repo.findById(1L)).thenReturn(...)
+
+thenThrow()   Cấu hình ném exception
+when(service.call()).thenThrow(...)
+
+verify()  Xác minh method đã được gọi
+verify(repo).findById(1L)
+
+any()  Matcher cho đối số bất kỳ
+any(User.class)
+
+never()
+Xác minh method không được gọi
+verify(repo, never()).deleteById(1L)

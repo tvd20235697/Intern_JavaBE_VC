@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+demo,com.example,Calculator,0,28,0,2,0,7,0,6,0,5
+demo,com.example,DiscountService,0,16,0,2,0,4,0,3,0,2
+demo,com.example,UserService,0,42,1,3,0,8,1,5,0,4
+demo,com.example,User,0,15,0,0,0,7,0,4,0,4
+demo,com.example,Product,0,18,0,0,0,8,0,4,0,4
+demo,com.example,Main,5,3,0,0,2,1,1,1,1,1
+demo,com.example,ProductService,0,27,0,0,0,6,0,3,0,3

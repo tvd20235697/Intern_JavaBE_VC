@@ -1,0 +1,9 @@
+com\example\DiscountService.class
+com\example\UserService.class
+com\example\ProductService.class
+com\example\UserRepository.class
+com\example\Main.class
+com\example\Calculator.class
+com\example\ProductRepository.class
+com\example\User.class
+com\example\Product.class
